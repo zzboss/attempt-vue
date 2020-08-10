@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.zz-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.zz-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zz-label {
+    font-size: 14px;
+    color: #2f3542;
+}
